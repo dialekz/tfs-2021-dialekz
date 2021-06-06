@@ -1,0 +1,5 @@
+default:lecture-1_2.13:0.1 [S]
+  +-ru.tinkoff:scala-course-john_2.13:0.2 [S]
+  +-ru.tinkoff:scala-course-tom_2.13:0.2 [S]
+    +-ru.tinkoff:scala-course-martin_2.13:0.1 [S]
+      +-ru.tinkoff:scala-course-clerk_2.13:0.1 [S]

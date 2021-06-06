@@ -1,0 +1,6 @@
+/.idea/
+/homework/target/
+/lecture/target/
+/target/
+/.bsp/
+**/target/
